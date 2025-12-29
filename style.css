@@ -30,7 +30,7 @@ body {
 /* Hero Section With Image + Gradient */
 .hero {
   height: 100vh;
-  background: url("images/hero.jpg") no-repeat center/cover;
+  background: url("hero.jpg") no-repeat center/cover;
   position: relative;
   background-size: cover;
 }
@@ -128,3 +128,4 @@ body {
 .footer {
   background: #0d0d0d;
 }
+
